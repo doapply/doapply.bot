@@ -7,7 +7,7 @@
 aiohttp==3.7.4.post0
     # via
     #   dis-snek
-    #   discord.py
+    #   discord-py
 async-timeout==3.0.1
     # via aiohttp
 attrs==21.4.0
@@ -24,7 +24,7 @@ charset-normalizer==2.0.10
     # via requests
 dis-snek==4.5.0
     # via -r requirements.in
-discord.py==1.7.3
+discord-py==1.7.3
     # via topggpy
 dnspython==2.2.0
     # via -r requirements.in
@@ -56,7 +56,7 @@ pymongo==4.0.1
     # via -r requirements.in
 python-dotenv==0.19.2
     # via -r requirements.in
-requests==2.27.1
+requests==2.31.0
     # via requests-oauthlib
 requests-oauthlib==1.3.0
     # via google-auth-oauthlib
